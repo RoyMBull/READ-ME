@@ -18,7 +18,7 @@ I’ve included this handy Guide that will help you navigate my GitHub. These ar
       
    * Custom Drone Software Sub folder under this repository. 
 
-   I reverse engineered how the tello drone API communicates with the drone in order to fabricate my own user interface. The final build will integrate the arduino library in      order to directly communicate and control the server motors for the drone, as well as allowing me to properly integrate the pentesting app with it. This has a lot to do with    python which is what you're looking for. Hope this helps.
+   I reverse engineered how the tello drone API communicates with the drone in order to fabricate my own user interface. The final build will integrate the arduino library in      order to directly communicate and control the server motors for the drone, as well as allowing me to properly integrate the pentesting app with it. 
        
    * Drone Schematics.cpp
 
