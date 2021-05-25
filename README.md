@@ -1,4 +1,4 @@
-# Welcome
+# Welcome!
 
 I’ve included this handy Guide that will help you navigate my GitHub. These are all my main projects you should check out first before exploring around my GitHub in general. Feel free to look around!
 
