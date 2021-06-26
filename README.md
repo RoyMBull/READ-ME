@@ -2,7 +2,7 @@
 
 I’ve included this handy Guide that will help you navigate my GitHub. These are all my main projects you should check out first before exploring around my GitHub in general. Feel free to look around!
 
-# PenTesting App Ver2: https://github.com/RoyMBull/READ-ME/blob/main/README.md
+# PenTesting App Ver2: https://github.com/RoyMBull/Pen-Testing-App-Ver2
 
    This is a second build of a penetration testing app I've developed that is meant to automate     a variety of the different tools I've written. The interface only includes      code that has been fully tested thoroughly. Any others,  feel free to browse and look at it. You won't see it in the interface but it's there in case you wish to see it.        The following to look at first are:
 
